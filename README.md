@@ -1,2 +1,2 @@
 # 1242
-A simple repo for a testcase project.
+Just some fiddle shizzle with code
