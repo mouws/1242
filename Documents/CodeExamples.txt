@@ -1,1 +1,2 @@
 https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+http://cs.berry.edu/~nhamid/p2p/framework-python.html
