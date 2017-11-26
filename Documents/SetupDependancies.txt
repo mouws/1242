@@ -1,3 +1,4 @@
 https://github.com/mouws/1242
 
+#First install GIT
 #To get most modules with ease, install python by installing ActivePython 
